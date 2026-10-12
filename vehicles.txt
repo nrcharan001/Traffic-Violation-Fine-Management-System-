@@ -1,0 +1,4 @@
+TG27CD1374;Lokesh Rahul;9574837583;kukatpally,Hyderabad,500023;0;0;0;0;0
+MH74HG7593;Rohit Kumar;8465736863;Sitabuldi,Nagpur,440082;0;0;0;0;0
+AP46GU7493;Pavan;8757584753;Patamata,Vijayawada,528594;0;0;0;0;0
+TN43GH8356;Veera Swami;9974744747;Anna Nagar,Chennai,546627;0;0;0;0;0
